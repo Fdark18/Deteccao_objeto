@@ -731,8 +731,8 @@ Este projeto utiliza bibliotecas de terceiros com suas respectivas licenças:
 ## 📞 Suporte
 
 ### Contato
-- **Autor**: jhonatab
-- **Email**: jhonatab@empresa.com
+- **Autor**: Jhonatan Frossard
+- **Email**: frossard39@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/jhonatab/detectacell/issues)
 
 ### FAQ
