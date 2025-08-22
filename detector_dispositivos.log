@@ -1,0 +1,45 @@
+2025-08-21 22:18:36,863 - __main__ - INFO - Inicializando sistema de detecção de dispositivos
+2025-08-21 22:18:37,035 - __main__ - INFO - Modelo yolov8s.pt carregado com sucesso
+2025-08-21 22:18:37,035 - __main__ - INFO - Sistema inicializado com sucesso
+2025-08-21 22:18:37,035 - __main__ - INFO - Iniciando detecção em tempo real - Camera 0
+2025-08-21 22:18:37,513 - __main__ - INFO - Sistema de detecção iniciado
+2025-08-21 22:18:37,513 - __main__ - INFO - Controles disponíveis:
+2025-08-21 22:18:37,515 - __main__ - INFO - - Q/ESC: Encerrar sistema
+2025-08-21 22:18:37,515 - __main__ - INFO - - S: Capturar screenshot
+2025-08-21 22:18:37,515 - __main__ - INFO - - ESPAÇO: Pausar/Retomar
+2025-08-21 22:18:37,515 - __main__ - INFO - - +/-: Ajustar threshold de confiança
+2025-08-21 22:19:08,207 - __main__ - INFO - Threshold ajustado para: 0.55
+2025-08-21 22:19:08,431 - __main__ - INFO - Threshold ajustado para: 0.60
+2025-08-21 22:19:08,544 - __main__ - INFO - Threshold ajustado para: 0.65
+2025-08-21 22:19:08,656 - __main__ - INFO - Threshold ajustado para: 0.70
+2025-08-21 22:19:08,870 - __main__ - INFO - Threshold ajustado para: 0.75
+2025-08-21 22:19:08,976 - __main__ - INFO - Threshold ajustado para: 0.80
+2025-08-21 22:19:09,183 - __main__ - INFO - Threshold ajustado para: 0.85
+2025-08-21 22:19:09,295 - __main__ - INFO - Threshold ajustado para: 0.90
+2025-08-21 22:19:09,455 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:09,583 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:09,700 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:09,823 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:09,972 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:10,111 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:10,255 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:10,473 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:10,944 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:11,183 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:11,343 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:11,456 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:11,673 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:11,774 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:11,997 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:21,967 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:22,194 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:22,304 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:22,414 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:22,548 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:22,736 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:19:22,832 - __main__ - INFO - Threshold ajustado para: 0.95
+2025-08-21 22:20:20,400 - __main__ - INFO - Sistema interrompido pelo usuário (Ctrl+C)
+2025-08-21 22:20:20,850 - __main__ - INFO - === RELATÓRIO DE SESSÃO ===
+2025-08-21 22:20:20,850 - __main__ - INFO - Frames processados: 555
+2025-08-21 22:20:20,850 - __main__ - INFO - Total de detecções: 0
+2025-08-21 22:20:20,850 - __main__ - INFO - Recursos liberados com sucesso

@@ -1,0 +1,31 @@
+# Dependências principais para detecção
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=10.0.0
+
+# Dependências de desenvolvimento (opcional)
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+pylint>=2.17.0
+isort>=5.12.0
+pytest>=7.4.0
+
+# Nota: types-opencv-python não está disponível nos repositórios padrão
+# MyPy está configurado para ignorar tipos do OpenCV
+
+# Para compatibilidade com diferentes sistemas
+# Descomente conforme necessário:
+
+# Para GPU NVIDIA (CUDA)
+# torch-audio>=2.0.0
+# torchaudio>=2.0.0
+
+# Para sistemas MacOS com Apple Silicon
+# torch>=2.0.0+cpu
+
+# Para sistemas Windows com DirectML
+# torch-directml>=0.2.0
